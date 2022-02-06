@@ -1,0 +1,21 @@
+.week-row {
+    display:flex;
+    height: 100px;
+}
+.day {
+    flex:1;
+    border: 1px solid slategray;
+}
+.day-number {
+    height: 15px;
+    width: 15px;
+    float: right;
+    float: top;
+    padding: 5px 5px;
+    text-align: right;
+}
+.calendar-container {
+    border: 1px solid slategray;
+    margin-left: 10px;
+    margin-right: 10px;
+}
